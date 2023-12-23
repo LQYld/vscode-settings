@@ -14,7 +14,6 @@
     "antfu.icons-carbon",
     "LQYld.doli-theme",
     "LQYld.vscode-icons-iconify",
-    "sainnhe.gruvbox-material",
 
     // life savers!
     "dbaeumer.vscode-eslint",
@@ -31,6 +30,13 @@
     "mpontus.tab-cycle",
     "naumovs.color-highlight",
     "WakaTime.vscode-wakatime",
-    "znck.grammarly"
+    "znck.grammarly",
+    "christian-kohler.path-intellisense",
+    "adpyke.codesnap",
+    "kamikillerto.vscode-colorize",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "MS-CEINTL.vscode-language-pack-zh-hans",
+    "ritwickdey.LiveServer"
   ]
 }
