@@ -3,7 +3,7 @@
   "workbench.colorTheme": "Doli Visual Studio",
   "workbench.editor.tabCloseButton": "left",
   "workbench.fontAliasing": "antialiased",
-  "workbench.iconTheme": "file-icons",
+  "workbench.iconTheme": "vscode-icons",
   "workbench.list.smoothScrolling": true,
   "workbench.preferredDarkColorTheme": "Doli Visual Studio",
   "workbench.preferredLightColorTheme": "Doli Visual Studio",
